@@ -1,0 +1,5 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .nav-item li a {
+        padding: 10 10 8px 10;
+    }
+}
